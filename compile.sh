@@ -20,7 +20,7 @@ echo "== main.c compiled successfully."
 
 echo "== Compiling TypeScript to JavaScript..."
 set -x
-./third_party/typescript/lib/tsc brickBreaker.ts
+./third_party/typescript/lib/tsc game.ts
 set +x
 echo "== TypeScript successfully compiled to JavaScript."
 
