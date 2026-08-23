@@ -1,0 +1,5 @@
+The applicable license for the source code and other artifacts in
+"third_party/quickjs" is provided in "third_party/quickjs/LICENSE". That
+license applies only to files in "third_party/quickjs" and its subdirectories,
+and does not apply to files elsewhere in the project, including parent
+directories.

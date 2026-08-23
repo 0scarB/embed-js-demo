@@ -1,0 +1,12 @@
+# 1st-party binaries
+main
+# Tags for VIM
+tags
+
+# QuickJS object files
+third_party/quickjs/.obj/
+# QuickJS platform-specific binaries
+third_party/quickjs/qjs
+third_party/quickjs/qjsc
+third_party/quickjs/run-test262
+third_party/quickjs/libquickjs.a
