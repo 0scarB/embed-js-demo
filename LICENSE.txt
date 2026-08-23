@@ -1,5 +1,44 @@
-The applicable license for the source code and other artifacts in
-"third_party/quickjs" is provided in "third_party/quickjs/LICENSE". That
-license applies only to files in "third_party/quickjs" and its subdirectories,
-and does not apply to files elsewhere in the project, including parent
-directories.
+== Third-party Materials ==
+
+This software incorporates material from third parties. Third-party material is
+located in subdirectories of the "third_party" directory. The license terms,
+copyright notices, and other requirements applicable to third-party material
+may differ from those applicable to the rest of this project.
+
+The project license does not replace, limit, or otherwise modify the license
+terms applicable to third-party material. Before using, modifying, or
+redistributing this software, review the license files, notices, and other
+legal documents applicable to the relevant third-party material. When
+redistributing third-party material, preserve all notices and include any
+license text or other information required by the applicable license.
+
+The following sections identify relevant license and notice files. They are
+provided to help locate those documents; the documents themselves control the
+terms applicable to the material they cover.
+
+
+-- QuickJS License --
+
+The files in "third_party/quickjs" and its subdirectories may be subject to
+license terms, copyright notices, and other requirements set out in
+"third_party/quickjs/LICENSE" or other applicable files included with that
+material.
+
+Before using, modifying, or redistributing material from "third_party/quickjs",
+review the applicable license files, notices, and other accompanying
+documentation. Preserve those files and comply with any requirements applicable
+to the material being used or redistributed.
+
+
+-- TypeScript License and Notices --
+
+The files in "third_party/typescript" and its subdirectories may be subject to
+license terms, copyright notices, and other requirements set out in
+"third_party/typescript/LICENSE", "third_party/typescript/NOTICE.txt", or other
+applicable files included with that material.
+
+Before using, modifying, or redistributing material from
+"third_party/typescript", review the applicable license files, notices, and
+other accompanying documentation. Preserve those files and comply with any
+requirements applicable to the material being used or redistributed.
+
